@@ -1,1 +1,1 @@
-# Amazon-CaseStudy
+# Amazon-Prime-India
